@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PetCultistAOC
+  m_Controller: {fileID: 9100000, guid: a24f4ecc5f242434f9910bc4e090fbad, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 5522812681064789136, guid: 34f30712d30697648b80843f9e09934c, type: 3}
+    m_OverrideClip: {fileID: -2481596286897056705, guid: 4241ea30dbee19d46bc57a00b345d028, type: 3}
+  - m_OriginalClip: {fileID: -5624545281902316504, guid: 34f30712d30697648b80843f9e09934c, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 4241ea30dbee19d46bc57a00b345d028, type: 3}
+  - m_OriginalClip: {fileID: -1304387373167265313, guid: 34f30712d30697648b80843f9e09934c, type: 3}
+    m_OverrideClip: {fileID: 2459078804267041145, guid: 4241ea30dbee19d46bc57a00b345d028, type: 3}
+  - m_OriginalClip: {fileID: 4348485665485846014, guid: 34f30712d30697648b80843f9e09934c, type: 3}
+    m_OverrideClip: {fileID: 2459078804267041145, guid: 4241ea30dbee19d46bc57a00b345d028, type: 3}

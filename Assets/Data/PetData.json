@@ -1,0 +1,34 @@
+{
+    "Items": [
+        {
+            "name": "shelly",
+            "buffType": "defense",
+            "buffAmount": 3.0,
+            "price": 10
+        },
+        {
+            "name": "mimic",
+            "buffType": "attack",
+            "buffAmount": 3.0,
+            "price": 10
+        },
+        {
+            "name": "foxie",
+            "buffType": "attack",
+            "buffAmount": 3.0,
+            "price": 10
+        },
+        {
+            "name": "doggie",
+            "buffType": "defense",
+            "buffAmount": 3.0,
+            "price": 10
+        },
+        {
+            "name": "birdie",
+            "buffType": "heal",
+            "buffAmount": 3.0,
+            "price": 10
+        }
+    ]
+}
